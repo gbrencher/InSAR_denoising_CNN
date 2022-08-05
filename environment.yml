@@ -1,0 +1,15 @@
+name: pytorch
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - ipykernel
+  - mamba
+  - matplotlib
+  - numpy
+  - pandas
+  - jupyter
+  - jupyterlab
+  - pytorch
+  - opencv
